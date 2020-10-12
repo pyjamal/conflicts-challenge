@@ -1,3 +1,3 @@
 # conflicts-challenge
-
+REMOTE
 lines
